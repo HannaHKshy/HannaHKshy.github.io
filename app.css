@@ -1,0 +1,42 @@
+body {
+  background-color: #ea0000;
+  font-family: 'Open Sans', sans-serif;
+}
+
+#pokedex-container {
+  background-color: white;
+  margin: 0 auto;
+  width: 450px;
+  border-radius: 25px;
+  padding: 15px;
+  text-align: center;
+}
+
+#pokemon-data {
+  margin: 0 auto;
+  padding-top: 75px;
+}
+
+#pokemon-logo {
+  margin: 0px;
+  width: 400px;
+}
+
+#pokemon-image {
+  height: 170px;
+  
+}
+
+#pokemon-buscador-container {
+  margin: 0 auto;
+  padding: 15px;
+}
+
+img[src=""] {
+  display: none;
+}
+
+#pokemon-name-data {
+  font-family: 'Tangerine', serif;
+  font-size: large;
+}
